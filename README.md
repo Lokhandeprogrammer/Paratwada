@@ -1,2 +1,4 @@
 # Paratwada
 city
+gao
+morshi
